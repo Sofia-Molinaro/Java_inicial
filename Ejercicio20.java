@@ -16,11 +16,11 @@ public class Ejercicio20 {
             numero = entrada.nextInt();
 
             if(aleatorio < numero){
-                System.out.print("Es número ingresado es mayor.");
+                System.out.print("Es número es menor.");
             }
 
             else if(aleatorio > numero){
-                System.out.print("El número ingresado es menor.");
+                System.out.print("El número es mayor.");
             }
         }
 
