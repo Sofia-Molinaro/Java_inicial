@@ -1,3 +1,4 @@
+//Dice si un mail ingresado es o no es correcto.
 import javax.swing.*;
 public class Ejercicio24{
     public static void main(String[] args){
@@ -24,7 +25,6 @@ public class Ejercicio24{
         else{
             System.out.println("No es correcto"); 
         }
-
 
     }
 }
