@@ -1,3 +1,4 @@
+//Imprime una matriz. 
 public class Ejercicio26 {
     public static void main(String[] args){
         int [] matriz = new int[5];
