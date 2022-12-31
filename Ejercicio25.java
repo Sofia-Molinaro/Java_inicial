@@ -1,3 +1,4 @@
+//Imprime el factorial de un número.
 import javax.swing.*;
 public class Ejercicio25{
     public static void main(String[] args){
