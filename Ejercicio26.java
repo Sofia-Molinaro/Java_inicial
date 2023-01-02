@@ -1,16 +1,11 @@
 //Imprime una matriz. 
 public class Ejercicio26 {
     public static void main(String[] args){
-        int [] matriz = new int[5];
-        
-        matriz[0] = 2;
-        matriz[1] = 23;
-        matriz[2] = 17;
-        matriz[3] = -6;
-        matriz[4] = 24;
-        
+ 
+        int [] matriz = {2, 23, 17, -6, 24};
+       
         System.out.println("La matriz es: " );
-        for(int i = 0; i < 5; i++){
+        for(int i = 0; i < matriz.length; i++){
             System.out.println(matriz[i]);
         }
         
