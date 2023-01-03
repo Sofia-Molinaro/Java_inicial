@@ -27,6 +27,7 @@ public class Ejercicio29 {
         matriz[3][4] = 41;
 
         for (int i=0; i < 4; i++){
+            System.out.println();
             for(int x = 0; x < 5; x++){
                 System.out.print(matriz[i][x] + "  "); 
             }
